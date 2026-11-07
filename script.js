@@ -16,7 +16,7 @@ const sharedHeader = `
 
 const sharedFooter = `
   <p>FRIX Trainingen</p>
-  <p>Naam: FRIX Trainingen | KvK: 92414222</p>
+  <p>KvK: 92414222</p>
   <p>Cloud Development | Cloud Fundamentals | IT | Data | ML/AI</p>
   <p><a href="https://frix.tech">frix.tech</a> | <a href="mailto:info@frix.tech">info@frix.tech</a></p>
 `;
